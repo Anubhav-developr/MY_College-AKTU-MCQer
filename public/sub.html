@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./index.css" />
+    <script src="./index.js"></script>
+    <script src="./MCQ.json"></script>
+    <title>Subject Finder</title>
+  </head>
+  <body>
+    <div >
+      <img src="logo-min.png" alt="pre-loader" class="pre_load" height="70px" width="70px" />
+    </div>
+    <header>
+      <div class="uH">
+        <img src="logo1.png" style="padding-left: 10px" />
+        <div class="content" style="margin-top: 21px; margin-left: 15px">
+          <p>Rajkiya Engineering College Sonbhadra</p>
+          <p style="font-size: 14px; font-style: normal">
+            An AICTE Government Engineering College, Affliated to AKTU lucknow
+          </p>
+        </div>
+      </div>
+    </header>
+    <section>
+      <div class="qform" id="divroot">
+        <form onsubmit="return false" id="formb">
+          <div class="formg" id="divy">
+            <label>Semester</label>
+            <select name="text" id="luckys"></select>
+          </div>
+
+          <div class="formg">
+            <label>Branch</label>
+            <select name="text" id="luckyb">
+              <option value="text">CSE</option>
+              <option value="text">EE</option>
+              <option value="text">ECE</option>
+            </select>
+          </div>
+          <div class="formg">
+            <label>Subject</label>
+            <select name="text" id="luckyc"></select>
+          </div>
+          <button type="submit" style="margin-top: 17px" id="btn">Submit</button>
+        </form>
+      </div>
+    </section>
+    <footer></footer>
+  </body>
+</html>

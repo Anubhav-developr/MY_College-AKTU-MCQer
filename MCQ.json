@@ -1,0 +1,75 @@
+{
+  "branch": [
+    {
+      "name": "CSE",
+      "semester": [
+        {
+          "number": "2",
+          "subjects": ["", "", ""]
+        },
+        {
+          "number": "4",
+          "subjects": [
+            { "name": "Microprocessor", "code": "" },
+            { "name": "Human Values", "code": "" },
+
+            { "name": "Operating System", "code": "" },
+            { "name": "Theory of Finite Automata", "code": "" },
+
+            { "name": "Electronics Engineering", "code": "KOE048" }
+          ]
+        },
+        {
+          "number": "6",
+          "subjects": ["", "", ""]
+        },
+        {
+          "number": "8",
+          "subjects": ["", "", ""]
+        }
+      ]
+    },
+    {
+      "name": "EL",
+      "semester": [
+        {
+          "number": "2",
+          "subjects": ["", "", ""]
+        },
+        {
+          "number": "4",
+          "subjects": ["", "", ""]
+        },
+        {
+          "number": "6",
+          "subjects": ["", "", ""]
+        },
+        {
+          "number": "8",
+          "subjects": ["", "", ""]
+        }
+      ]
+    },
+    {
+      "name": "ECE",
+      "semester": [
+        {
+          "number": "2",
+          "subjects": ["", "", ""]
+        },
+        {
+          "number": "4",
+          "subjects": ["", "", ""]
+        },
+        {
+          "number": "6",
+          "subjects": ["", "", ""]
+        },
+        {
+          "number": "8",
+          "subjects": ["", "", ""]
+        }
+      ]
+    }
+  ]
+}

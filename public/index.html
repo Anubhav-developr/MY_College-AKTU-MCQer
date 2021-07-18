@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="./index.css" rel="stylesheet" type="text/css" />
+    <link href="redirect.html"/>
+    <link href="./sub.html"/>
+    <script type="text/javascript" src="data.json"></script>
+    <script src="index.js"></script>
+    <title>Rajkiya Engineering College Sonbhadra</title>
+  </head>
+  <body>
+    <script>
+       function preLoad(){
+       
+       }
+ 
+ console.log(mydata.course[0].name)  // btech 
+ console.log(mydata.course[0].branch[0].name) //CSE
+console.log(mydata.course[0].branch[0].semester[0].subjects[i].code)
+    </script>
+    <header>
+    <div class="pre_load"> <img src="logo-min.png" alt="pre-loader"  height="70px" width="70px"></div>
+      <div class="uH">
+        <img src="logo1.png" style="padding-left: 10px" />
+        <div class="content" style="margin-top: 21px; margin-left: 15px">
+          <p>Rajkiya Engineering College Sonbhadra</p>
+          <p style="font-size: 14px; font-style: normal">
+            An AICTE Government Engineering College, Affliated to AKTU lucknow
+          </p>
+        </div>
+
+        
+      </div>
+    </header>
+    <section>
+      <div class="sec">
+<marquee behavior="left"><p style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: aliceblue;">DUMMY ADMIN PANEL</p></marquee>  
+      </div>
+      <div id="admin">
+      <form type="submit" onsubmit="return false">
+        <img src="logo1.png" width="45px" height="45px" alt="logo"  id="panel_img"/>
+       <div class="formg"> <label>User ID :</label>
+        <input type="text" style="border: 1px solid grey"></div>
+       <div class="formg"> <label>Password :</label>
+        <input type="password"  style="border: 1px solid grey"></div>
+         
+        <button type="submit" class="formg" onclick="Formit()">Submit</button>
+      </form>
+      </div>
+    </section>
+    <footer>
+      <div class="subid">
+       <a href="./sub.html"> <button id="btn" style="border: 1px solid grey">Subject Finder</button></a>
+      </div>
+    </footer>
+  </body>
+</html>
