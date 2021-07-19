@@ -1,0 +1,25 @@
+{
+  "name": "MY_College-AKTU-MCQer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongodb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anubhav-developr/MY_College-AKTU-MCQer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anubhav-developr/MY_College-AKTU-MCQer/issues"
+  },
+  "homepage": "https://github.com/Anubhav-developr/MY_College-AKTU-MCQer#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "file-system": "^2.2.2"
+  }
+}
