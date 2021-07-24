@@ -5,27 +5,45 @@
       "semester": [
         {
           "number": "2",
-          "subjects": ["", "", ""]
+          "subjects": [
+            { "name": "", "code": "" },
+            { "name": "", "code": "" },
+            { "name": "", "code": "" },
+            { "name": "", "code": "" }
+          ]
         },
         {
           "number": "4",
           "subjects": [
-            { "name": "Microprocessor", "code": "" },
-            { "name": "Human Values", "code": "" },
+            { "name": "Microprocessor", "code": "KCS403" },
+            { "name": "Universal Human Values", "code": "KVE401" },
 
-            { "name": "Operating System", "code": "" },
-            { "name": "Theory of Finite Automata", "code": "" },
+            { "name": "Operating Systems", "code": "KCS401" },
+            {
+              "name": "Theory of Automata and Formal Languages",
+              "code": "KCS402"
+            },
 
             { "name": "Electronics Engineering", "code": "KOE048" }
           ]
         },
         {
           "number": "6",
-          "subjects": ["", "", ""]
+          "subjects": [
+            { "name": "", "code": "" },
+            { "name": "", "code": "" },
+            { "name": "", "code": "" },
+            { "name": "", "code": "" }
+          ]
         },
         {
           "number": "8",
-          "subjects": ["", "", ""]
+          "subjects": [
+            { "name": "", "code": "" },
+            { "name": "", "code": "" },
+            { "name": "", "code": "" },
+            { "name": "", "code": "" }
+          ]
         }
       ]
     },
@@ -34,19 +52,40 @@
       "semester": [
         {
           "number": "2",
-          "subjects": ["", "", ""]
+          "subjects": [
+            { "name": "Engineering Mathematics II", "code": "MKAS203T" },
+            {
+              "name": "Fundamentals of Mechanical Engineering and Mechatronics",
+              "code": "KME201T"
+            }
+          ]
         },
         {
           "number": "4",
-          "subjects": ["", "", ""]
+          "subjects": [
+            { "name": "", "code": "" },
+            { "name": "", "code": "" },
+            { "name": "", "code": "" },
+            { "name": "", "code": "" }
+          ]
         },
         {
           "number": "6",
-          "subjects": ["", "", ""]
+          "subjects": [
+            { "name": "", "code": "" },
+            { "name": "", "code": "" },
+            { "name": "", "code": "" },
+            { "name": "", "code": "" }
+          ]
         },
         {
           "number": "8",
-          "subjects": ["", "", ""]
+          "subjects": [
+            { "name": "", "code": "" },
+            { "name": "", "code": "" },
+            { "name": "", "code": "" },
+            { "name": "", "code": "" }
+          ]
         }
       ]
     },
@@ -55,19 +94,40 @@
       "semester": [
         {
           "number": "2",
-          "subjects": ["", "", ""]
+          "subjects": [
+            { "name": "", "code": "" },
+            { "name": "", "code": "" },
+            { "name": "", "code": "" },
+            { "name": "", "code": "" }
+          ]
         },
         {
           "number": "4",
-          "subjects": ["", "", ""]
+          "subjects": [
+            { "name": "", "code": "" },
+            { "name": "", "code": "" },
+            { "name": "", "code": "" },
+            { "name": "", "code": "" }
+          ]
         },
         {
           "number": "6",
-          "subjects": ["", "", ""]
+          "subjects": [
+            { "name": "", "code": "" },
+            { "name": "", "code": "" },
+            { "name": "", "code": "" },
+            { "name": "", "code": "" },
+            { "name": "", "code": "" }
+          ]
         },
         {
           "number": "8",
-          "subjects": ["", "", ""]
+          "subjects": [
+            { "name": "", "code": "" },
+            { "name": "", "code": "" },
+            { "name": "", "code": "" },
+            { "name": "", "code": "" }
+          ]
         }
       ]
     }
